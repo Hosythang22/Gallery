@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Sep 24 11:17:05 ICT 2017
+#Sun Sep 24 11:57:29 ICT 2017
 122.file=C\:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\popup.9.png
 60.set=ANDROID_RESOURCE
 129.file=C\:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon_delete.png

@@ -128,15 +128,9 @@ public final class DetailMode {
 
         if (item.isDateTakenValid()) {
             long dateTaken = item.mDateTakenInMs;
-            if (item.isPicassaItem()) {
-                dateTaken -= Gallery.CURRENT_TIME_ZONE.getOffset(dateTaken);
-            }
             strings[2] = resources.getString(R.string.taken_on) + ": " + dateTimeFormat.format(new Date(dateTaken));
         } else if (item.isDateAddedValid()) {
             long dateAdded = item.mDateAddedInSec * 1000;
-            if (item.isPicassaItem()) {
-                dateAdded -= Gallery.CURRENT_TIME_ZONE.getOffset(dateAdded);
-            }
             // TODO: Make this added_on as soon as translations are ready.
             // strings[2] = resources.getString(R.string.added_on) + ": " +
             // DateFormat.format("h:mmaa MMM dd yyyy", dateAdded);
