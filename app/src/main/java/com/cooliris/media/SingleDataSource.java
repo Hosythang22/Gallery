@@ -238,7 +238,6 @@ public class SingleDataSource implements DataSource {
             set.mName = name;
             set.setNumExpectedItems(2);
             set.generateTitle(true);
-            set.mPicasaAlbumId = Shared.INVALID;
             if (this.getThumbnailCache() != LocalDataSource.sThumbnailCache) {
                 loadOtherSets = false;
             }
@@ -249,7 +248,6 @@ public class SingleDataSource implements DataSource {
             set.mId = LocalDataSource.getBucketId(MediaStore.Images.Media.EXTERNAL_CONTENT_URI.toString() + "/" + set.mName);
             set.setNumExpectedItems(1);
             set.generateTitle(true);
-            set.mPicasaAlbumId = Shared.INVALID;
         } else {
             CacheService.loadMediaSet(feed, this, Long.parseLong(mBucketId));
             ArrayList<MediaSet> sets = feed.getMediaSets();

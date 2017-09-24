@@ -55,7 +55,7 @@ public final class MediaItemTexture extends Texture {
             return false;
         }
         synchronized (cache) {
-            long id = parentMediaSet.mPicasaAlbumId == Shared.INVALID ? Utils.Crc64Long(item.mFilePath) : item.mId;
+            long id = Utils.Crc64Long(item.mFilePath);
             return cache.isDataAvailable(id, item.mDateModifiedInSec * 1000);
         }
     }
@@ -66,7 +66,7 @@ public final class MediaItemTexture extends Texture {
             return false;
         if (mItem.mParentMediaSet == null || mItem.mMimeType == null)
             return false;
-        if (mItem.mParentMediaSet.mPicasaAlbumId == Shared.INVALID && mItem.mMimeType.contains("video")) {
+        if (mItem.mMimeType.contains("video")) {
             return true;
         } else {
             return false;
@@ -165,26 +165,8 @@ public final class MediaItemTexture extends Texture {
             return retVal;
         } else {
             byte[] data = null;
-            MediaSet parentMediaSet = item.mParentMediaSet;
-            if (parentMediaSet != null && parentMediaSet.mPicasaAlbumId != Shared.INVALID) {
-                DiskCache thumbnailCache = parentMediaSet.mDataSource.getThumbnailCache();
-                data = thumbnailCache.get(item.mId, 0);
-                if (data == null) {
-                    // We need to generate the cache.
-                    try {
-                        Bitmap retVal = UriTexture.createFromUri(mContext, item.mThumbnailUri, 256, 256, 0, null);
-                        data = CacheService.writeBitmapToCache(thumbnailCache, item.mId, item.mId, retVal, config.thumbnailWidth,
-                                config.thumbnailHeight, item.mDateModifiedInSec * 1000);
-                    } catch (IOException e) {
-                        return null;
-                    } catch (URISyntaxException e) {
-                        return null;
-                    }
-                }
-            } else {
-                data = CacheService.queryThumbnail(mContext, Utils.Crc64Long(item.mFilePath), item.mId,
-                        item.getMediaType() == MediaItem.MEDIA_TYPE_VIDEO, item.mDateModifiedInSec * 1000);
-            }
+            data = CacheService.queryThumbnail(mContext, Utils.Crc64Long(item.mFilePath), item.mId,
+                    item.getMediaType() == MediaItem.MEDIA_TYPE_VIDEO, item.mDateModifiedInSec * 1000);
             if (data != null) {
                 try {
                     // Parse record header.

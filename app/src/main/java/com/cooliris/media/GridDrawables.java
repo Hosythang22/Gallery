@@ -173,9 +173,7 @@ public final class GridDrawables {
             if (set == null) {
                 return R.drawable.icon_folder_small;
             }
-            if (set.mPicasaAlbumId != Shared.INVALID) {
-                return R.drawable.icon_picasa_small;
-            } else if (set.mId == LocalDataSource.CAMERA_BUCKET_ID) {
+            if (set.mId == LocalDataSource.CAMERA_BUCKET_ID) {
                 return R.drawable.icon_camera_small;
             } else {
                 return R.drawable.icon_folder_small;
@@ -184,9 +182,7 @@ public final class GridDrawables {
             if (set == null) {
                 return R.drawable.icon_folder_small_unscaled;
             }
-            if (set.mPicasaAlbumId != Shared.INVALID) {
-                return R.drawable.icon_picasa_small_unscaled;
-            } else if (set.mId == LocalDataSource.CAMERA_BUCKET_ID) {
+            if (set.mId == LocalDataSource.CAMERA_BUCKET_ID) {
                 return R.drawable.icon_camera_small_unscaled;
             } else {
                 return R.drawable.icon_folder_small_unscaled;

@@ -256,11 +256,4 @@ public class MediaSet {
     public boolean areAddedTimestampsAvailable() {
         return (mMinAddedTimestamp < Long.MAX_VALUE && mMaxAddedTimestamp > 0);
     }
-
-    /**
-     * @return true if this set is a Picassa album.
-     */
-    public boolean isPicassaAlbum() {
-        return (mPicasaAlbumId != Shared.INVALID);
-    }
 }
