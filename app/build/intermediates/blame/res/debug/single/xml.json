@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\xml\\syncadapter.xml"
     }
 ]

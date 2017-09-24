@@ -53,11 +53,9 @@ public class MediaSet {
     public String mTruncTitleString;
     public String mNoCountTitleString;
 
-    public String mEditUri = null;
     public long mPicasaAlbumId = Shared.INVALID;
 
     public DataSource mDataSource;
-    public boolean mSyncPending = false;
 
     private ArrayList<MediaItem> mItems;
     public int mNumItemsLoaded = 0;
@@ -73,7 +71,7 @@ public class MediaSet {
     }
 
     public MediaSet(DataSource dataSource) {
-        mItems = new ArrayList<MediaItem>(16);
+        mItems = new ArrayList<>(16);
         mDataSource = dataSource;
         // TODO(Venkat): Can we move away from this dummy item setup?
         MediaItem item = new MediaItem();

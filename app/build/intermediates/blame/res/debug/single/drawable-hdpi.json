@@ -1,51 +1,47 @@
 [
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videooverlay.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\videooverlay.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner2.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner2.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fs_details.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_fs_details.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_track_fill.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\scroller_track_fill.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder_small.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_folder_small.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_focus.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_focus.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_delete.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner8.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner8.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_folder_small.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner3.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner3.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_new.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\scroller_new.png"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode_grid.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\mode_grid.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode_grid.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\mode_grid.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_play.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_play.png"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner6.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner6.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup_triangle_bottom.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\popup_triangle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup.9.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\popup.9.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner3.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner3.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_out_normal.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_out_normal.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_out_normal.png",
@@ -54,10 +50,6 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_share.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_share.png"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_track_fill.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\scroller_track_fill.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_pressed_new.png",
@@ -76,60 +68,208 @@
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_out_pressed.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_pressed.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner1.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner1.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode_stack.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\mode_stack.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_picasa_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_picasa_small.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner4.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner4.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appwidget_bg.9.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\appwidget_bg.9.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appwidget_bg.9.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\appwidget_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_cancel.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup.9.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\popup.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_in_normal.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_in_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\appwidget_bg.9.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\appwidget_bg.9.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_camera_small.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_camera_small.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_camera.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_inner.9.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\photo_inner.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_pressed_new.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\scroller_pressed_new.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_in_normal.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_in_normal.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_more.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_picasa_small.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_picasa_small.png"
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_play.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_play.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner7.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner7.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner4.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner4.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_inner.9.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\photo_inner.9.png"
     },
     {
-        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner8.png",
-        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner8.png"
-    },
-    {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_home_small.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_home_small.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner1.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_share.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_share.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_delete.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner5.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner5.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videooverlay.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\videooverlay.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode_stack.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\mode_stack.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fs_details.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_fs_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_out_pressed.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_out_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_folder_small.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_delete.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_new.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\scroller_new.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_play.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_play.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner6.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner6.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fs_details.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_fs_details.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\videooverlay.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\videooverlay.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup.9.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\popup.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_in_pressed.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_in_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_camera_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_camera_small.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner6.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner6.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_track_fill.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\scroller_track_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_pressed.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scroller_new.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\scroller_new.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode_stack.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\mode_stack.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup_triangle_bottom.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\popup_triangle_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_home_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_home_small.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_cancel.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_pressed.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_picasa_small.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\icon_picasa_small.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_hud_zoom_in_normal.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\btn_hud_zoom_in_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner8.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner8.png"
     },
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_focus.png",
@@ -142,5 +282,9 @@
     {
         "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_spinner2.png",
         "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\drawable-hdpi\\ic_spinner2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_cancel.png",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Gallery\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel.png"
     }
 ]
