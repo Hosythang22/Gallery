@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_view.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\layout\\movie_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_frame.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\android_packages_apps_Gallery3D-eclair\\app\\src\\main\\res\\layout\\photo_frame.xml"
+    }
+]

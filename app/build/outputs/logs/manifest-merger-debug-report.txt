@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:3:1-105:12
+	package
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:5:5-36
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:6:5-63
+application
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:7:5-84:19
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:7:48-80
+	android:debuggable
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:8:9-34
+	android:icon
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:7:18-47
+activity#com.cooliris.media.Gallery
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:9:9-55:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:12:13-45
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:9:43-75
+	android:stateNotNeeded
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:12:72-101
+	android:noHistory
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:12:46-71
+	android:configChanges
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:11:13-63
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:10:13-71
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:9:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:15:27-74
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.OPENABLE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:18:25-73
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:19:27-74
+data
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:20:17-73
+	android:mimeType
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:20:23-70
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:22:13-28:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:25:27-73
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:29:13-34:29
+action#android.intent.action.PICK
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:30:25-66
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:41:25-66
+service#com.cooliris.cache.CacheService
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:57:9-95
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:57:18-46
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:57:47-93
+receiver#com.cooliris.cache.BootReceiver
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:59:9-77:20
+	android:enabled
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:60:13-35
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:59:19-47
+	android:permission
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:60:36-98
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:59:48-94
+intent-filter#android.intent.action.BOOT_COMPLETE+android.intent.category.DEFAULT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:61:13-64:29
+action#android.intent.action.BOOT_COMPLETE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:63:25-75
+intent-filter#android.intent.action.MEDIA_SCANNER_FINISHED
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:65:13-68:29
+action#android.intent.action.MEDIA_SCANNER_FINISHED
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:66:17-87
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:66:25-84
+intent-filter#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:69:13-72:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:70:25-75
+intent-filter#android.intent.action.MEDIA_EJECT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.MEDIA_EJECT
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:74:25-73
+uses-sdk
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:86:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:86:15-40
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:87:5-72
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:87:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:88:5-81
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:88:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:89:5-71
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:89:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:90:5-74
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:90:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:91:5-67
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:91:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:92:5-66
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:92:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:93:5-68
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:93:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:94:5-81
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:94:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:95:5-77
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:95:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:96:5-78
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:96:22-75
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:97:5-74
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:97:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:98:5-79
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:98:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:99:5-81
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:99:22-78
+supports-screens
+ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:101:5-103:37
+	android:largeScreens
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:102:38-65
+	android:smallScreens
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:101:23-51
+	android:normalScreens
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:102:9-37
+	android:anyDensity
+		ADDED from C:\Users\DELL\AndroidStudioProjects\android_packages_apps_Gallery3D-eclair\app\src\main\AndroidManifest.xml:103:9-34
