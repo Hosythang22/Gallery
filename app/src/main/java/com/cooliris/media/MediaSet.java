@@ -53,8 +53,6 @@ public class MediaSet {
     public String mTruncTitleString;
     public String mNoCountTitleString;
 
-    public long mPicasaAlbumId = Shared.INVALID;
-
     public DataSource mDataSource;
 
     private ArrayList<MediaItem> mItems;

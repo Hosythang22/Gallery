@@ -60,7 +60,6 @@ public class BootReceiver extends BroadcastReceiver {
         } else if (action.equals(Intent.ACTION_MEDIA_EJECT)) {
             LocalDataSource.sThumbnailCache.close();
             LocalDataSource.sThumbnailCacheVideo.close();
-            //PicasaDataSource.sThumbnailCache.close();
             CacheService.sAlbumCache.close();
             CacheService.sMetaAlbumCache.close();
             CacheService.sSkipThumbnailIds.flush();

@@ -201,7 +201,6 @@ public final class HudLayer extends Layer {
         int numBuckets = buckets.size();
         boolean albumMode = false;
         boolean singleItem = false;
-        boolean isPicasa = false;
         int mediaType = MediaItem.MEDIA_TYPE_IMAGE;
         if (numBuckets > 1) {
             albumMode = true;
@@ -292,8 +291,7 @@ public final class HudLayer extends Layer {
 
         Option[] optionImageSingle;
         optionImageSingle = new Option[] {
-                new PopupMenu.Option((isPicasa) ? mContext.getResources().getString(R.string.set_as_wallpaper) : mContext
-                        .getResources().getString(R.string.set_as), mContext.getResources().getDrawable(
+                new PopupMenu.Option(mContext.getResources().getString(R.string.set_as), mContext.getResources().getDrawable(
                         R.drawable.ic_menu_set_as), new Runnable() {
                     public void run() {
                         ArrayList<MediaBucket> buckets = mGridLayer.getSelectedBuckets();
@@ -732,7 +730,6 @@ public final class HudLayer extends Layer {
 
     public void computeBottomMenu() {
         // we need to the same for picasa albums
-        ArrayList<MediaBucket> selection = mGridLayer.getSelectedBuckets();
         Menu[] menus = mSelectionMenuBottom.getMenus();
         if (menus == mSingleViewIntentBottomMenu)
             return;

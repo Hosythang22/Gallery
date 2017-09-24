@@ -14,8 +14,7 @@ public final class LoadingLayer extends Layer {
     private static final float GRAY_VALUE = 0.1f;
     private static final int[] PRELOAD_RESOURCES_ASYNC_UNSCALED = { R.drawable.stack_frame, R.drawable.grid_frame,
             R.drawable.stack_frame_focus, R.drawable.stack_frame_gold, R.drawable.btn_location_filter_unscaled,
-            R.drawable.videooverlay, R.drawable.grid_check_on, R.drawable.grid_check_off, R.drawable.icon_camera_small_unscaled,
-            R.drawable.icon_picasa_small_unscaled };
+            R.drawable.videooverlay, R.drawable.grid_check_on, R.drawable.grid_check_off, R.drawable.icon_camera_small_unscaled,};
 
     private static final int[] PRELOAD_RESOURCES_ASYNC_SCALED = {/*
                                                                   * R.drawable.btn_camera_pressed
