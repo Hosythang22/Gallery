@@ -74,19 +74,19 @@ public final class DetailMode {
         if (selectedItemsSet.areTimestampsAvailable()) {
             long minTimestamp = selectedItemsSet.mMinTimestamp;
             long maxTimestamp = selectedItemsSet.mMaxTimestamp;
-            if (selectedItemsSet.isPicassaSet()) {
+            /*if (selectedItemsSet.isPicassaSet()) {
                 minTimestamp -= Gallery.CURRENT_TIME_ZONE.getOffset(minTimestamp);
                 maxTimestamp -= Gallery.CURRENT_TIME_ZONE.getOffset(maxTimestamp);
-            }
+            }*/
             strings.add(resources.getString(R.string.start) + ": " + dateTimeFormat.format(new Date(minTimestamp)));
             strings.add(resources.getString(R.string.end) + ": " + dateTimeFormat.format(new Date(maxTimestamp)));
         } else if (selectedItemsSet.areAddedTimestampsAvailable()) {
             long minTimestamp = selectedItemsSet.mMinAddedTimestamp;
             long maxTimestamp = selectedItemsSet.mMaxAddedTimestamp;
-            if (selectedItemsSet.isPicassaSet()) {
+            /*if (selectedItemsSet.isPicassaSet()) {
                 minTimestamp -= Gallery.CURRENT_TIME_ZONE.getOffset(minTimestamp);
                 maxTimestamp -= Gallery.CURRENT_TIME_ZONE.getOffset(maxTimestamp);
-            }
+            }*/
             strings.add(resources.getString(R.string.start) + ": " + dateTimeFormat.format(new Date(minTimestamp)));
             strings.add(resources.getString(R.string.end) + ": " + dateTimeFormat.format(new Date(maxTimestamp)));
         } else {

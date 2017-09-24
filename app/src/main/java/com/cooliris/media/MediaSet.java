@@ -258,27 +258,6 @@ public class MediaSet {
     }
 
     /**
-     * @return true if this set of items corresponds to Picassa items.
-     */
-    public boolean isPicassaSet() {
-        // 2 cases:-
-        // 1. This set is just a Picassa Album, and all its items are therefore
-        // from Picassa.
-        // 2. This set is a random collection of items and each item is a
-        // Picassa item.
-        if (isPicassaAlbum()) {
-            return true;
-        }
-        int numItems = mItems.size();
-        for (int i = 0; i < numItems; i++) {
-            if (!mItems.get(i).isPicassaItem()) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    /**
      * @return true if this set is a Picassa album.
      */
     public boolean isPicassaAlbum() {
