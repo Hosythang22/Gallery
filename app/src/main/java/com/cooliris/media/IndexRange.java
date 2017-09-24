@@ -1,6 +1,10 @@
 package com.cooliris.media;
 
 public final class IndexRange {
+
+    public int begin;
+    public int end;
+
     public IndexRange(int beginRange, int endRange) {
         begin = beginRange;
         end = endRange;
@@ -23,7 +27,4 @@ public final class IndexRange {
     public int size() {
         return end - begin;
     }
-
-    public int begin;
-    public int end;
 }

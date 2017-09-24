@@ -19,7 +19,7 @@ public final class MediaFeed implements Runnable {
 
     private IndexRange mVisibleRange = new IndexRange();
     private IndexRange mBufferedRange = new IndexRange();
-    private ArrayList<MediaSet> mMediaSets = new ArrayList<MediaSet>();
+    private ArrayList<MediaSet> mMediaSets = new ArrayList<>();
     private Listener mListener;
     private DataSource mDataSource;
     private boolean mListenerNeedsUpdate = false;
