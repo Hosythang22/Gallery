@@ -3,9 +3,6 @@ package com.cooliris.media;
 import java.util.ArrayList;
 
 public class MediaSet {
-    public static final int TYPE_SMART = 0;
-    public static final int TYPE_FOLDER = 1;
-    public static final int TYPE_USERDEFINED = 2;
 
     public long mId;
     public String mName;

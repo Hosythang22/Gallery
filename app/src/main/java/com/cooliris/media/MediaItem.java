@@ -17,19 +17,13 @@ public final class MediaItem {
     public static final String ID = new String("id");
     public long mId;
 
-    public String mGuid;
     public String mCaption;
-    public String mEditUri;
     public String mContentUri;
     public String mThumbnailUri;
     public String mScreennailUri;
-    public String mMicroThumbnailUri;
-    public String mWeblink;
     public String mMimeType;
     private String mDisplayMimeType;
     private int mMediaType = -1;
-    public String mRole;
-    public String mDescription;
 
     // Location-based properties of the item.
     public double mLatitude;
@@ -41,11 +35,6 @@ public final class MediaItem {
     public long mDateModifiedInSec = 0;
     public long mDateAddedInSec = 0;
     public int mDurationInSec;
-
-    public int mPrimingState = 0;
-    public static final int NOT_PRIMED = 0;
-    public static final int STARTED_PRIMING = 1;
-    public static final int PRIMED = 2;
 
     public int mClusteringState = 0;
     public static final int NOT_CLUSTERED = 0;
@@ -63,10 +52,6 @@ public final class MediaItem {
 
     public MediaItem() {
         mCaption = "";
-    }
-
-    public boolean isWellFormed() {
-        return true;
     }
 
     @Override
